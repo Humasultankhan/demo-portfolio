@@ -1,0 +1,74 @@
+body{
+    background-color: #cccccc;
+}
+#nav a:hover{
+    color: #ffffff;
+}
+#bg-img{
+    background: url('../backimg.jfif');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+#About{
+    margin-top: -200px;
+}
+/* #About .fa{
+    color: white;
+} */
+#About span{
+    padding: 10px 20px 10px 20px;
+}
+#About hr{
+    border-width: 3px;
+    margin-top: 6px;
+}
+
+/* #skill{
+    margin-top: 50px;
+} */
+/* #Skills{
+    margin-top: -200px;
+} */
+#Skills span{
+    padding: 10px 20px 10px 20px;
+}
+#Skills hr{
+    border-width: 3px;
+    margin-top: 6px;
+}
+p{
+   font-style: italic;
+}
+
+
+
+#Contact{
+    margin-left: 75px;
+}
+#contact01{
+    padding: 10px 20px 10px 20px;
+}
+#hrcontact{
+    border-width: 3px;
+    margin-top: 6px;
+    margin-right: 70px;
+   
+}
+/* #Contact span{
+    border-width: 3px;
+    margin-top: 6px;
+} */
+ /* #project{
+    margin-top: 200px;
+}  */
+/* #project .fa{
+    color: white;
+} */
+
+#Project{
+    margin-left: 60px;
+}
+#project01{
+    padding: 10px 20px 10px 20px;
+}
